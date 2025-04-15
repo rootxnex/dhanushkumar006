@@ -2,7 +2,7 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
+    - cron: "0 0 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@master
         with:
-          github_user_name: dhanushkumar006
+          github_user_name: dhanushkumar006  # your GitHub username
           outputs: |
             ./output/github-snake.svg
             ./output/github-snake-dark.svg

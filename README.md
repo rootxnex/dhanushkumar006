@@ -34,7 +34,7 @@
 ## 🏆 Certifications & Achievements
 
 - ✅ **Google Cloud - GenAI Study Jam** (Skill Badges Completed)
-- ✅ **Cybersecurity Internship - Prodigy InfoTech**
+- ✅ **Cybersecurity Internship **
 - ✅ **Coursera Cybersecurity Courses**
 - ⭐ **CodeChef 1-Star Coder**
 - 💡 **CTF Organizer & Cybersecurity Lead — GDG KSRIET**

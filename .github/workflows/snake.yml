@@ -1,26 +1,23 @@
-name: Generate Snake Contribution Graph
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
-          github_user_name: dhanushkumar006  # your GitHub username
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./output/github-snake.svg
-            ./output/github-snake-dark.svg
-
-      - name: Push the generated snake
-        uses: EndBug/add-and-commit@v9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: "Generated snake contribution graph"
-          add: "./output/*"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

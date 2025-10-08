@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Dhanushkumar! 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Enthusiast | Aspiring Ethical Hacker | Flutter Developer</b><br>
+  <b>Cybersecurity Enthusiast | Aspiring Ethical Hacker</b><br>
   Welcome to my GitHub space — where security meets creativity!
 </p>
 

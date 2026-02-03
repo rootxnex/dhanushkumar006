@@ -56,8 +56,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: **dhanush.kumar.m006@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhanushkumar006)
+- 📧 Email: **rootxnex@gmail.com**
 - 💻 [GitHub](https://github.com/dhanushkumar006)
 
 ---

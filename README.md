@@ -15,7 +15,7 @@
 - 💡 Passionate about **Ethical Hacking, Bug Bounty Hunting, and App Development**.
 - 🧑‍💻 Active **Google Developer Student Club (GDSC)** Member.
 - 💬 Tools I love: `Nmap`, `SQLMap`, `Wireshark`, `Python`.
-- 📫 Reach me at: **dhanush.kumar.m006@gmail.com**  
+- 📫 Reach me at: **rootxnex@gmail.com**  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dhanushkumar006)
 
 ---

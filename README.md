@@ -1,64 +1,121 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&width=435&lines=Hello+Visitors+🤗;Welcome+to+my+GitHub!;Cybersecurity+%7C+Developer+%7C+Ethical+Hacker)](https://git.io/typing-svg)
+⚡ ELITE CYBERSECURITY README
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+Security+Console...;Root+Access+Granted;Ethical+Hacker+Mode+Activated;Building+Secure+Systems" /> </p>
+> booting profile...
+> loading modules...
+> establishing secure channel...
+> access granted
 
-<h1 align="center">Hi, I'm Rootxnex! 👋</h1>
-
-<p align="center">
-  <b>Cybersecurity Enthusiast | Aspiring Ethical Hacker</b><br>
-  Welcome to my GitHub space — where security meets creativity!
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing **B.Tech Information Technology** at **KSR Institute for Engineering and Technology**.
-- 💡 Passionate about **Ethical Hacking, Bug Bounty Hunting, and App Development**.
-- 🧑‍💻 Active **Google Developer Student Club (GDSC)** Member.
-- 💬 Tools I love: `Nmap`, `SQLMap`, `Wireshark`, `Python`.
-- 📫 Reach me at: **rootxnex@gmail.com**  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/dhanushkumar006)
-
----
-
-## 🧰 Tech Stack
-
-- 💻 **Languages:** Python, Java, Dart, SQL  
-- ⚙️ **Frameworks:**TensorFlow  
-- 🔧 **Tools:** Nmap, Burp Suite, Wireshark, Git, GitHub  
-- 🖥️ **Platforms:** Parrot OS, Linux, Android, Firebase, Google Cloud  
-
----
-
-## 🏆 Certifications & Achievements
-
-- ✅ **Google Cloud - GenAI Study Jam** (Skill Badges Completed)
-- ✅ **Cybersecurity Internship **
-- ✅ **Coursera Cybersecurity Courses**
-- ⭐ **CodeChef 1-Star Coder**
-- 💡 **CTF Organizer & Cybersecurity Lead — GDG KSRIET**
-
----
+<h1 align="center">rootxnex</h1> <p align="center"> Offensive Security • Red Team • Builder </p>
+🧠 OPERATOR PROFILE
+role: Cybersecurity Engineer
+focus: Offensive Security + AI Security Tools
+mode: Continuous Learning
+status: Building Elite Skillset
+mission: Break → Understand → Secure
 
 
-## 📊 GitHub Stats
+B.Tech IT — KSR Institute
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushkumar006&show_icons=true&theme=dark&hide_border=true" alt="Dhanushkumar's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkumar006&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkumar006&theme=github-dark" alt="GitHub Activity Graph">
-</p>
+Cybersecurity Lead (GDG)
 
+CTF Organizer
 
+Bug bounty learner
 
----
+Security tool builder
 
-## 📫 Connect with Me
+Founder mindset
 
-- 📧 Email: **rootxnex@gmail.com**
-- 💻 [GitHub](https://github.com/dhanushkumar006)
+⚔️ SPECIALIZATIONS
+Red Team
 
----
+Recon & Enumeration
 
-**_"Stay curious, stay ethical."_**
+Web exploitation
+
+Vulnerability chaining
+
+Attack surface mapping
+
+CTF infrastructure
+
+Blue Team Awareness
+
+Secure coding
+
+Threat detection
+
+Log analysis
+
+Defensive scripting
+
+🧰 TOOLKIT
+Recon        : Nmap, Amass
+Web          : Burp Suite, SQLMap
+Network      : Wireshark
+Exploit      : Metasploit
+Scripting    : Python
+OS           : Linux, Parrot OS
+Cloud        : Google Cloud
+Versioning   : Git
+
+💻 TECH STACK
+Languages:   Python | Java | Dart | SQL
+Security:    Burp | Nmap | Wireshark | SQLMap
+AI/ML:       TensorFlow
+Cloud:       Google Cloud
+Platforms:   Linux | Android
+
+🏆 ACHIEVEMENTS
+
+Google Cloud GenAI Study Jam
+
+Cybersecurity Internship
+
+Coursera Security Courses
+
+CodeChef ⭐ 1-Star
+
+GDG Cybersecurity Lead
+
+CTF Event Organizer
+
+🧪 CURRENT OPERATIONS
+
+Bug bounty labs
+
+Exploit practice
+
+Security automation tools
+
+AI + cybersecurity
+
+Startup security products
+
+📊 SYSTEM METRICS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhanushkumar006&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkumar006&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkumar006&theme=github-compact"/> </p>
+📡 CONNECT
+email  : rootxnex@gmail.com
+github : github.com/dhanushkumar006
+
+🔐 SECURITY PHILOSOPHY
+
+The best defense is understanding the offense.
+
+Think like an attacker. Build like an engineer.
+
+🧬 FUTURE TARGETS
+
+Elite bug bounty hunter
+
+Red team specialist
+
+Security product founder
+
+AI-driven cybersecurity tools
+
+Cresnex security ecosystem
+
+> shutting down display...
+> stay ethical.
+

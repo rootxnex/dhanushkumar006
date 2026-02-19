@@ -49,9 +49,13 @@ Think like an attacker. Build like an engineer.
 🧬 FUTURE TARGETS
 
 Elite bug bounty hunter
+
 Red team specialist
+
 Security product founder
+
 AI-driven cybersecurity tools
+
 Cresnex security ecosystem
 
 > shutting down display...

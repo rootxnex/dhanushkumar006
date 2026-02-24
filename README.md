@@ -35,7 +35,7 @@ Platforms:   Linux | Android
 
 
 📊 SYSTEM METRICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rootxnex&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootxnex&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rootxnex&theme=github-compact"/> </p>
+<p align="center"> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rootxnex&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rootxnex&theme=github-compact"/> </p>
 📡 CONNECT
 email  : rootxnex@gmail.com
 github : github.com/rootxnex

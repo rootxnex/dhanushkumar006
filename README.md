@@ -6,7 +6,9 @@
 > access granted
 
 
-<img src="https://media1.tenor.com/m/YdkfKjz9vcEAAAAd/chicken-chicken-bro.gif" alt="Rooster GIF" width="300" />
+         
+         
+         <img src="https://media1.tenor.com/m/YdkfKjz9vcEAAAAd/chicken-chicken-bro.gif" alt="Rooster GIF" width="300" />
 
 <h1 align="center">rootxnex</h1> <p align="center"> Offensive Security • Red Team • Builder </p>
 🧠 OPERATOR PROFILE
